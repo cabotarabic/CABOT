@@ -1,0 +1,6 @@
+﻿token= NjM0NTIxMzMzODc0NTU2OTQ5.Xanh8A.dgERoOLptD-mQRZXfsEOX_Bd8O8
+owner= 495720262784909314
+prefix= a
+game= MARKY CA GAMING
+stayinchannel=true
+songinstatus=false
